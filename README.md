@@ -1,2 +1,2 @@
 # Python_Code
-This Code is for starter python students.
+These Codes are written to learn python libraries and data science with python.
